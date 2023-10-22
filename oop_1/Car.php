@@ -35,7 +35,7 @@ class Car
 
     public function setNumber($carnumber)
     {
-        $this->carname = $carnumber;
+        $this->carnumber = $carnumber;
     }
 
     public function setColor($carcolor)
